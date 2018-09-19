@@ -97,10 +97,10 @@
             <tbody>
                 <tr>
                     <td>123</td>
-                    <td>Edir</td>
+                    <td>Bruno</td>
                     <td>M</td>
-                    <td>11-1223-1234</td>
-                    <td>edir@prof.com</td>
+                    <td>41-9742-2059</td>
+                    <td>mozbls@gmail.com</td>
                     <td>PHP1</td>
                 </tr>
             </tbody>
